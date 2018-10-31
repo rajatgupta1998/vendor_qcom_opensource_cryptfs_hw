@@ -37,6 +37,7 @@
 #include <dirent.h>
 #include <dlfcn.h>
 #include <linux/qseecom.h>
+#include <errno.h>
 #include "cutils/log.h"
 #include "cutils/properties.h"
 #include "cutils/android_reboot.h"
